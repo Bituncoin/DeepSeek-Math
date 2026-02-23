@@ -219,4 +219,4 @@ See the [LICENSE-CODE](LICENSE-CODE) and [LICENSE-MODEL](LICENSE-MODEL) for more
 
 ## 8. Contact
 
-If you have any questions, please raise an issue or contact us at [service@deepseek.com](mailto:service@deepseek.com).
+Hello! If you have any questions, please raise an issue or contact us at [service@deepseek.com](mailto:service@deepseek.com).
